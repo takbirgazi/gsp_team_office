@@ -13,7 +13,7 @@ consult.addEventListener("click", function(){
         cosult_desc.classList.remove("hide");
         team_desc.classList.add("hide");
         consult.classList.add("active_2");
-        team.classList.remove("active")
+        team.classList.remove("active");
     }
 })
 team.addEventListener("click", function(){
