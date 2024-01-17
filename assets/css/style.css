@@ -95,6 +95,13 @@ a{
 .team .team_header >ul li:hover {
     background: var(--secoundry_color);
 }
+.active{
+    background: #4c6865;
+}
+.active_2{
+    background: #4c6865;
+    border-radius: 10px 10px 0px 0px;
+}
 .team .team_header >ul li:first-child:hover {
     background: var(--secoundry_color);
     border-radius: 10px 10px 0px 0px;
